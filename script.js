@@ -9,7 +9,7 @@ const links = {
   wiringDiagram: "#",
   shopManual: "#",
   jobsheet: "https://kur-maharati.github.io/Jobsheet/",
-  game: "#",
+  game: "https://kur-maharati.github.io/Game/",
   simulator: "https://kur-maharati.github.io/Simulator/"
 };
 
