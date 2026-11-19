@@ -8,7 +8,7 @@ const links = {
   ecu: "#",
   wiringDiagram: "#",
   shopManual: "#",
-  jobsheet: "#",
+  jobsheet: "https://kur-maharati.github.io/Jobsheet/",
   game: "#",
   simulator: "https://kur-maharati.github.io/Simulator/"
 };
