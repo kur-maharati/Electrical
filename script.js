@@ -10,7 +10,7 @@ const links = {
   shopManual: "#",
   jobsheet: "#",
   game: "#",
-  simulator: "#"
+  simulator: "https://kur-maharati.github.io/Simulator/"
 };
 
 function openDestination(menuKey) {
