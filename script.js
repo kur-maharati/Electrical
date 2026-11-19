@@ -4,7 +4,7 @@
   Untuk PDF lokal, simpan file di folder assets, contoh: assets/basic-electrical.pdf
 */
 const links = {
-  basicElectrical: "#", // contoh: "assets/basic-electrical.pdf" atau URL materi
+  basicElectrical: "https://drive.google.com/file/d/1KmZTwowaGDqNxA6glxCjzBHTzrp6wu8Q/view?usp=sharing", // contoh: "assets/basic-electrical.pdf" atau URL materi
   ecu: "#",
   wiringDiagram: "#",
   shopManual: "#",
