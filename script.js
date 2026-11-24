@@ -6,8 +6,8 @@
 const links = {
   basicElectrical: "https://drive.google.com/file/d/1KmZTwowaGDqNxA6glxCjzBHTzrp6wu8Q/view?usp=sharing", // contoh: "assets/basic-electrical.pdf" atau URL materi
   ecu: "#",
-  wiringDiagram: "#",
-  shopManual: "#",
+  wiringDiagram: "https://drive.google.com/file/d/1fchLTRDOwM3EzE7arv9myK_qcJRW3psC/view?usp=sharing",
+  shopManual: "https://drive.google.com/file/d/1MtW92jMDipCx8F8vhAQZYulNuWWnoSHL/view?usp=sharing",
   jobsheet: "https://kur-maharati.github.io/Jobsheet/",
   game: "https://kur-maharati.github.io/Game/",
   simulator: "https://kur-maharati.github.io/Simulator/"
